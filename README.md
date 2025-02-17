@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in Rust: creating a dangling pointer when working with vectors and raw pointers.  The `bug.rs` file shows the incorrect code that leads to this issue, while `bugSolution.rs` shows the corrected and safe approach.
